@@ -1,0 +1,5 @@
+config:
+  aws:profile: sgprod
+  aws:region: ap-southeast-1
+  bgl_terragrunt_vpc:state_bucket:
+    secure: AAABAM3NFpzYuJMIg6/DH/XS9lbEZ1btp98ebvgGv+IAYN64Bb/uF71c1EcZl5b6MrOMt4HvjbvYf09S+JXAxJxVIE22

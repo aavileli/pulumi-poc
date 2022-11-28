@@ -1,0 +1,5 @@
+config:
+  api_rest_lambda:secOpsPolicy:
+    secure: AAABAFMwaNFflVfgZs84bh/ek+ZFjI30AaHNknDheoyHxa/V9mysGaRSaft5KaSyFSgqYtkqdEls2M7VWmQAEOe/0BTlDIS+Eu6/+GpGqw0=
+  aws:profile: default
+  aws:region: ap-southeast-2

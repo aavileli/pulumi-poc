@@ -1,0 +1,5 @@
+config:
+  aws:profile: default
+  aws:region: ap-southeast-2
+  lambdaVpc:secOpsPolicy:
+    secure: AAABAFm601wGkjqHuaMs/q0LlQbYs+8y2iJEkwW43C6HuUcY/ITsSqg0xmE2YS02mV/ivjnDMrBmhPs1Q6WTGwS32mxdWSaffx8eHxuicX4=

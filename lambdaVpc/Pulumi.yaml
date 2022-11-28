@@ -1,0 +1,3 @@
+name: lambdaVpc
+description: This project creates a rest lambda function without api-gateway
+runtime: nodejs

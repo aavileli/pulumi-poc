@@ -1,0 +1,3 @@
+name: api_rest_lambda
+description: High level infrastructure that creates a rest api gateway with 2 routes serving a page from s3 and a rest call to a lambda function to display the time in that s3 page
+runtime: nodejs
